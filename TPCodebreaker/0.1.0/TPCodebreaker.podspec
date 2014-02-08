@@ -17,5 +17,6 @@ Pod::Spec.new do |s|
   s.resources = 'Assets/*'
 
   s.dependency 'TPGameAbstract', '~> 0.1.0'
-  
+  s.dependency 'MSKit', '~> 0.1.0'
+
 end
