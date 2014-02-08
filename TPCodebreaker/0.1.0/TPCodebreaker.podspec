@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'Classes/ios/*'
-  # s.resources = 'Assets'
+  s.resources = 'Assets/*'
 
   s.dependency 'TPGameAbstract', '~> 0.1.0'
   
