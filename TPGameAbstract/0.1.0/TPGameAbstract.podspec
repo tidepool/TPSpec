@@ -15,6 +15,4 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Classes/ios/*'
 #  s.resources = 'Assets/*''
-
-  s.public_header_files = 'Classes/**/*.h'
 end
